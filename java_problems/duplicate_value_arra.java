@@ -4,7 +4,7 @@ public class duplicate_value_arra {
 
         for (int i = 0; i < v.length; i++) {
             for (int j = i+1; j <v.length ; j++) {
-                if(v[i]==v[j]){
+                if(v[i].equals(v[j])){
                     System.out.println(v[j]);
                 }
                 
