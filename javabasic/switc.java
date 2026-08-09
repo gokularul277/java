@@ -5,7 +5,7 @@ public class switc {
             case 'a':
                 System.out.println("hi");
                 break;
-              
+
             case 'b':
                 System.out.println("hi");
                 break;
