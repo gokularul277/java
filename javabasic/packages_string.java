@@ -17,6 +17,8 @@ public class packages_string {
         System.out.println("gokul".toUpperCase());
         System.out.println("GOKUL".toLowerCase());
         System.out.println(f4.trim());
+
+        // wrapper class
         System.out.println(f4.replace('o', 'k'));
         System.out.println(f2.contains("g"));
         System.out.println(f2.indexOf("g"));
