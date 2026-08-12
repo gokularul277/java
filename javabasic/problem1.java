@@ -7,7 +7,7 @@ public class problem1 {
         while(a>0){
             b=a%10;
             a=a/10;
-            count++;
+            count++; 
 
 
         }
